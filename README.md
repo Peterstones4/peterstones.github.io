@@ -40,7 +40,7 @@ improvement.
 - Self Employed, AP & SAT Math Teacher  
   - Guiding Canadian high school students in SAT and AP math.
 
-## Awards & Honors
+## Awards & Honours
 - Honours at Entrance, Issued by The Chinese University of Hong Kong, Nov 2021
 - Admission Scholarship HK$300,000, Issued by The Chinese University of Hong Kong, July 2021
 
