@@ -1,4 +1,4 @@
-# Lupeng Shi
+# Lupeng SHI
 
 My name is Lupeng Shi, a final year student at the Chinese University of Hong Kong. I major in Aritifical Intelligence. My favorite goals are work related to computer graphics, virtual reality technology, and large language models. Further, I am highly passionate about the application of artificial intelligence in astronomy and education. Currently, I am looking forward to a work or PhD opportunities related to these fields.
 
@@ -38,8 +38,17 @@ improvement.
   2. Responsible for the media publicity of Tianjin Bootes Astronomical Society.
   3. Travel route planning and workbook designing.
 - Self Employed, AP & SAT Math Teacher  
-   Guiding Canadian high school students in SAT and AP math.
+  - Guiding Canadian high school students in SAT and AP math.
 
+## Awards & Honors
+- Honours at Entrance, Issued by The Chinese University of Hong Kong, Nov 2021
+- Admission Scholarship HK$300,000, Issued by The Chinese University of Hong Kong, July 2021
+
+## Languages
+- Mandarin
+- English
+- Cantonese
+- German
 
 
 
